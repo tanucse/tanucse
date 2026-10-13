@@ -1,20 +1,28 @@
-## Hi, I'm Tanu 👋
+# Hi, I’m Tanu 👋
 
-# About
+I build products that turn complex technology into practical outcomes for customers.
 
-I build products that make complex technology useful in the real world. At Cisco, I work across industrial IoT cybersecurity and banking products, turning customer and business needs into clear product priorities and practical solutions.
+At Cisco, I work across **industrial IoT cybersecurity** and **banking products**, connecting customer needs, technology, and business goals to shape product direction and deliver useful solutions.
 
-On the industrial IoT side, I work with Cisco Cyber Vision, which helps organizations understand what’s connected to their operational technology networks, assess security risks, and protect industrial operations.
-
-My product work spans strategy, roadmaps, platform development, automation, and cross-functional delivery. Previously, I led collaboration automation initiatives that cut site decommissioning time from a week to a day, automated 78% of self-service processes, and helped generate $5 million in customer savings. I also drove improvements that reduced UAT and production defects by 80%.
-
-I’m interested in practical AI, including GenAI and multi-agent workflows, and enjoy turning early ideas into useful prototypes. I’ve also worked hands-on with APIs, automation, and platform integrations, and have contributed technical writing on Cisco collaboration solutions.
+My work is hands-on: product strategy, roadmaps, platform improvements, automation, integrations, and cross-functional delivery. I’m also interested in applied AI and turning promising ideas into useful prototypes.
 
 ## What I work on
 
-- **Industrial IoT security:** Product work related to OT visibility, asset and risk insights, and protecting industrial operations with Cyber Vision.
-- **Banking products:** Product planning and delivery for customer and business needs in banking.
-- **Product strategy and execution:** Roadmaps, prioritization, platform improvements, and cross-functional delivery.
-- **Automation and integration:** Streamlining workflows and connecting systems through APIs and platform capabilities.
-- **Applied AI:** Exploring GenAI and multi-agent concepts through prototypes and product ideas.
+- 🏭 **Industrial IoT security:** Product work around Cisco Cyber Vision, OT visibility, asset and risk insights, and protecting industrial operations.
+- 🏦 **Banking products:** Product planning and delivery shaped around customer and business needs.
+- 🧭 **Product strategy:** Roadmaps, prioritization, product discovery, and aligning teams around outcomes.
+- ⚙️ **Automation & platforms:** Simplifying workflows, connecting systems, and improving scalable platform experiences.
+- 🔌 **APIs & integrations:** Turning technical capabilities into reliable, customer-facing solutions.
+- 🤖 **Applied AI:** Exploring GenAI and multi-agent concepts through prototypes and product ideas.
 
+## About me
+
+- 🚀 **Product Owner at Cisco**, working across industrial IoT cybersecurity and banking.
+- 📈 Led collaboration automation initiatives that reduced site decommissioning time from **one week to one day**.
+- 💰 Helped automate **78% of self-service processes**, contributing to **$5M in customer savings** from FY22 to FY25.
+- ✅ Drove improvements that reduced UAT and production defects by **80%**.
+- 🛠️ Earlier, delivered automation solutions that saved **$1.5M** and **11,000 engineering hours**.
+- ✍️ Cisco Tech Zone contributor and co-author of Cisco collaboration automation white papers.
+- 🎓 Cisco certified in CyberOps, DevNet, and networking.
+
+I enjoy building products that make complex systems easier to use, operate, and trust. Always happy to connect with people working on **industrial cybersecurity, banking products, automation, and applied AI**. 🌱
